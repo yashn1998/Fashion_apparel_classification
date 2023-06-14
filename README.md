@@ -10,6 +10,16 @@ The classification of fashion apparel holds immense potential for diverse stakeh
 To accomplish this goal, we will utilize a comprehensive dataset comprising of high-resolution images representing a wide range of fashion items. Through deep learning techniques, our model will learn intricate patterns, color schemes, textures, and visual features unique to each apparel category like shirts , trouser, pants etc. By extracting and analyzing these key attributes, we can effectively classify and categorize fashion items with remarkable accuracy.
 
 
-Created an api to classify when the apparel is 
+Created an api to classify whether apparel is 
+Goggles
+Hat
+Jacket
+Shirt
+Shoes
+Shorts
+Trouser
+T-Shirt
+Wallet
+Watch.
 
 
