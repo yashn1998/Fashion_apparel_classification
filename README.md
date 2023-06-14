@@ -24,7 +24,27 @@ Watch.
 
 **INPUT IMAGE**
 we have to predict under which category this images is claasified.
+
+
+
+
 ![137](https://github.com/yashn1998/Fashion_apparel_classification/assets/102281447/8ac3b80a-6ffd-4def-8ef7-b91afda301a3)
 
-After this we have to convert this image to Base64. This encoded image is the input key to api.![Screenshot (646)](https://github.com/yashn1998/Fashion_apparel_classification/assets/102281447/3eb059cc-98bf-4239-9d13-3a6c2ca00ef8)
+
+
+**After this we have to convert this image to Base64. This encoded image is the input key to api.**
+you can use any tool to convert image to base64 like base64guru
+
+
+![Screenshot (646)](https://github.com/yashn1998/Fashion_apparel_classification/assets/102281447/3eb059cc-98bf-4239-9d13-3a6c2ca00ef8)
+
+
+
+
+
+After converting this image , copy encoded image and paste it in image key. Add it will predict the image whether is is jacket ,shirt ,etc.
+
+
+
+
 ![Screenshot (644)](https://github.com/yashn1998/Fashion_apparel_classification/assets/102281447/f1e6eb8c-298a-44f6-8510-7c6eb7caa9d4)
